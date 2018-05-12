@@ -1,0 +1,41 @@
+_repo: Draw-Swords-In-the-Horse-Artillery_34493
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Groome, William H. C.
+    aliases:
+    - Groome, W.H.C.
+    - Groome, W. H. C. (William H. C.)
+    gutenberg_agent_id: '9731'
+    url: http://www.gutenberg.org/2009/agents/9731
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. M. (George Manville)
+    - Fenn, G. Manville (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Kings and rulers -- Juvenile fiction'
+- !lcsh 'East India Company. Army -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'India -- Juvenile fiction'
+- !lcsh 'Soldiers -- India -- Juvenile fiction'
+title: Draw Swords! In the Horse Artillery
+url: http://www.gutenberg.org/ebooks/34493
